@@ -1,11 +1,15 @@
 {
-  "name": "imtigger/laravel-job-status",
+  "name": "cryental/laravel-job-status",
   "description": "Laravel Job Status",
   "license": "MIT",
   "authors": [
     {
       "name": "Tiger Fok",
       "email": "tiger@tiger-workshop.com"
+    },
+    {
+      "name": "Cryental",
+      "email": "contact@cryental.dev"
     }
   ],
   "keywords": [

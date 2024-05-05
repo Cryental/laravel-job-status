@@ -4,7 +4,7 @@ This plugin can only be installed from [Composer](https://getcomposer.org/).
 
 Run the following command:
 ```
-composer require imtigger/laravel-job-status
+composer require cryental/laravel-job-status
 ```
 
 #### 1. Add Service Provider (Laravel < 5.5)
